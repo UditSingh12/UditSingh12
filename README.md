@@ -59,19 +59,16 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UditSingh12&theme=tokyonight)
 
----
-
-## 🧠 Coding Profiles
-
-- 💻 LeetCode: https://leetcode.com/u/Udit_Singh04/ 
- 
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/udit-pratap-singh-04737a25a
-- 📧 Email: Uditbhadouriya@gmail.com
+<p align="center">
+<a href="https://www.linkedin.com/in/udit-pratap-singh-04737a25a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://leetcode.com/u/Udit_Singh04/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+<a href="mailto:Uditbhadouriya@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
